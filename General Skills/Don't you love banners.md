@@ -89,9 +89,9 @@ try:
             break
 
 except:
-    KeyboardInterrupt ```
+    KeyboardInterrupt 
 
-
+```
 Hóa ra, đây là script để chạy server này. Vì thế nên trước hết em sẽ thử cat file flag dưới tên của Super User
 
 ![image](https://github.com/anhshidou/picoCTF2024/assets/120787381/6a881586-7a16-4f34-b2d1-7a1deba29975)
